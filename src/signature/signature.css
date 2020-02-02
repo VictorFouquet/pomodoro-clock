@@ -1,0 +1,27 @@
+#signature {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #ccb993;
+  font-family: "Rubik", sans-serif;
+  margin-top: 60px;
+}
+
+#sign-text {
+  font-weight: bold;
+  margin: auto;
+}
+
+#logos {
+  margin: 15px auto;
+}
+
+a {
+  color: #ccb993;
+  font-size: 30px;
+  margin: 0 20px;
+}
+
+a:hover {
+  color: #aa9d83;
+}
